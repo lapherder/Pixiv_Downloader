@@ -28,7 +28,7 @@ ThreadDownloader类：线程类，从download_list中取出DownloadTask并下载
 
 主线程调用Pixiv类（未画出），其他线程的逻辑如下：
 
-![Pixiv_Downloader](.\res\Pixiv_Downloader.png)
+![Pixiv_Downloader](https://github.com/daggerx/Pixiv_Downloader/blob/master/res/Pixiv_Downloader.png?raw=true)
 
 
 
