@@ -336,8 +336,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-https://www.pixiv.net/rpc/illust_list.php?
-https://www.pixiv.net/ajax/illust/recommend/illusts?illust_ids[]=41379423
-"""
 
